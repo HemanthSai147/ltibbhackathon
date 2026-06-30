@@ -27,8 +27,8 @@ pipeline {
         stage('Image Scan') {
             steps {
                 sh '''
-                  trivy image hemanthreddy147/bloodbank:db >> db-reports.txt
-                  trivy image hemanthreddy147/bloodbank:app >> app-reports.txt
+                  trivy image hemanthreddy147/bloodbank:db >> db-trivy_reports.txt
+                  trivy image hemanthreddy147/bloodbank:app >> app-trivy_reports.txt
                 '''
             }
         }
