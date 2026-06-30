@@ -266,7 +266,7 @@
 .blood-donation-chart-text06 {
   font-size: 24px;
   font-style: normal;
-  font-family: Lexend;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-weight: 500;
   line-height: 1.3;
   margin-bottom: var(--dl-space-space-halfunit);
@@ -274,7 +274,7 @@
 .blood-donation-chart-text07 {
   width: auto;
   height: auto;
-  font-family: Lexend;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   line-height: 1;
 }
 .blood-donation-chart-grid-card1 {
@@ -297,7 +297,7 @@
 .blood-donation-chart-text08 {
   font-size: 24px;
   font-style: normal;
-  font-family: Lexend;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-weight: 500;
   line-height: 1.3;
   margin-bottom: var(--dl-space-space-halfunit);
@@ -305,7 +305,7 @@
 .blood-donation-chart-text09 {
   width: auto;
   height: auto;
-  font-family: Lexend;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   line-height: 1;
 }
 .blood-donation-chart-grid-card2 {
@@ -328,7 +328,7 @@
 .blood-donation-chart-text10 {
   font-size: 24px;
   font-style: normal;
-  font-family: Lexend;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-weight: 500;
   line-height: 1.3;
   margin-bottom: var(--dl-space-space-halfunit);
@@ -336,7 +336,7 @@
 .blood-donation-chart-text11 {
   width: auto;
   height: auto;
-  font-family: Lexend;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   line-height: 1;
 }
 .blood-donation-chart-grid-card3 {
@@ -359,7 +359,7 @@
 .blood-donation-chart-text12 {
   font-size: 24px;
   font-style: normal;
-  font-family: Lexend;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-weight: 500;
   line-height: 1.3;
   margin-bottom: var(--dl-space-space-halfunit);
@@ -367,7 +367,7 @@
 .blood-donation-chart-text13 {
   width: auto;
   height: auto;
-  font-family: Lexend;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   line-height: 1;
 }
 .blood-donation-chart-section-six {
